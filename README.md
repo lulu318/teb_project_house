@@ -17,7 +17,6 @@
 
 ## 推薦系統：NLP、歐式
 
-[test](/m8Oie5oeSXGHnClfP9OFKw)
 
 
 ## 房價預測
